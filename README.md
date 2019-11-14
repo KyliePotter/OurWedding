@@ -1,4 +1,4 @@
-(https://github.com/KyliePotter/OurWedding/blob/master/Designs/Signup.png)
+![Mockup](https://github.com/KyliePotter/OurWedding/blob/master/Designs/Signup.png)
 
 # Our Wedding
 
