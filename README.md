@@ -1,10 +1,10 @@
-![Mockup](https://github.com/KyliePotter/OurWedding/blob/master/Designs/Signup.png)
-
 # Our Wedding
 
 A wedding RSVP website for 'Ryan and Emma'. This is a simple RSVP website for invitees to confirm whether they will be attending 'Ryan and Emma's' wedding.
 
 Live Demo: [URL](xxx) - Unavailable currently.
+### Mockup
+![Mockup](https://github.com/KyliePotter/OurWedding/blob/master/Designs/Signup.png)
 
 ## Getting Started
 
